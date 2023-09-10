@@ -1,7 +1,6 @@
 package InterviewPractise;
 
 import java.util.Scanner;
-
 public class Factorial {
 	static int fact(int n) {
 		int fact=1;
