@@ -1,7 +1,7 @@
 package NumericalPattern;
 import java.util.Scanner;
 public class Armstong {
-	//count the digit
+	//count the digit 
 	static int CountDigit(int num) {
 		int count=0;
 		while(num!=0) {
